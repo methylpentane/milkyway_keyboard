@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "milkyway")(type "Legacy")(uri "${KIPRJMOD}/milkyway.lib")(options "")(descr ""))
 )
