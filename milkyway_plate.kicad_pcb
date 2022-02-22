@@ -114,7 +114,7 @@
   )
 
   (footprint "kbd_SW_Hole:SW_Hole_1.75u" (layer "F.Cu")
-    (tedit 60F58ACC) (tstamp 00000000-0000-0000-0000-00005cf70f1b)
+    (tedit 6215006C) (tstamp 00000000-0000-0000-0000-00005cf70f1b)
     (at 35.71875 66.675)
     (path "/00000000-0000-0000-0000-00005caae847")
     (attr through_hole)
@@ -122,14 +122,14 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ffd175d1-912a-4224-be1e-a8198680f46b)
     )
-    (fp_text value "SW_PUSH" (at -7.4 -8.1) (layer "F.Fab") hide
+    (fp_text value "SW_PUSH" (at 4.7625 2.38125) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8412992d-8754-44de-9e08-115cec1a3eff)
     )
+    (fp_line (start -11.8125 7.05) (end -11.8125 -7.05) (layer "Edge.Cuts") (width 0.15) (tstamp 407396c7-a5e2-4ecf-b616-5f9c7dafa52b))
     (fp_line (start 7.05 -7.05) (end 7.05 7.05) (layer "Edge.Cuts") (width 0.15) (tstamp 6d26d68f-1ca7-4ff3-b058-272f1c399047))
-    (fp_line (start 7.05 7.05) (end -7.05 7.05) (layer "Edge.Cuts") (width 0.15) (tstamp 911bdcbe-493f-4e21-a506-7cbc636e2c17))
-    (fp_line (start -7.05 7.05) (end -7.05 -7.05) (layer "Edge.Cuts") (width 0.15) (tstamp 9f8381e9-3077-4453-a480-a01ad9c1a940))
-    (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer "Edge.Cuts") (width 0.15) (tstamp d3d7e298-1d39-4294-a3ab-c84cc0dc5e5a))
+    (fp_line (start 7.05 7.05) (end -11.8125 7.05) (layer "Edge.Cuts") (width 0.15) (tstamp 911bdcbe-493f-4e21-a506-7cbc636e2c17))
+    (fp_line (start -11.8125 -7.05) (end 7.05 -7.05) (layer "Edge.Cuts") (width 0.15) (tstamp d3d7e298-1d39-4294-a3ab-c84cc0dc5e5a))
     (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer "F.Fab") (width 0.15) (tstamp 68877d35-b796-44db-9124-b8e744e7412e))
     (fp_line (start 16.66875 -9.525) (end -16.66875 -9.525) (layer "F.Fab") (width 0.15) (tstamp b96fe6ac-3535-4455-ab88-ed77f5e46d6e))
     (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer "F.Fab") (width 0.15) (tstamp c332fa55-4168-4f55-88a5-f82c7c21040b))
