@@ -1,6 +1,8 @@
 # milkyway 65% keyboard pcb & plate
 This repository contains kicad file (PCB/schematic), no firmware here.
 
+This repository based on [GL516 Design Template](https://github.com/Salicylic-acid3/GL516_Template) by Salicylic-acid3.
+
 # feature
 - 65% keyboard that neatly looks like Tsangan-layout.
 - Several layout options on center area(milkyway-area).
@@ -10,7 +12,7 @@ This repository contains kicad file (PCB/schematic), no firmware here.
 - Also there will be some layout options on R5.
     - split spacebars
     - one more rotary encoder
-    - 8u spacebar 🤔
+    - 8u & 10u spacebar 🤔
 
 # supported layout
 ![layout](/images/layout.png)
